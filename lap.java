@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-heeqgi
-=======
-khdaghsajoljflmsheeqgi
->>>>>>> testing
