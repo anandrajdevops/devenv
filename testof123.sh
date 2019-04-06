@@ -1,3 +1,4 @@
 hi 
-how are you
-i'am fine
+how are you 
+all are fine 
+where are you?    
